@@ -13,7 +13,8 @@ main {
   border-radius: 6px;
   text-align: center;
   overflow: auto;
-scroll-margin-bottom: 10px;
+  scroll-margin-bottom: 10px;
+  margin-top: 15px;
 }
 .movie2 {
   margin: 5px;
