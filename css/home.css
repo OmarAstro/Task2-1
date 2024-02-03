@@ -12,8 +12,8 @@ main {
   border: 1px solid rgba(255,255,255,.2);
   border-radius: 6px;
   text-align: center;
-  overflow: auto;
-  scroll-margin-bottom: 10px;
+  overflow-y: hidden;
+  overflow-x: scroll;
   margin-top: 15px;
 }
 .movie2 {
